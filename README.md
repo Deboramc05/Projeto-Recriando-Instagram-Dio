@@ -19,10 +19,12 @@ O projeto aborda o conceito de CSS Flexbox e responsividade.
 
 
 # Captura de tela
-
-<p> <a href="https://drive.google.com/file/d/1ZEsl7pJUHUQUYzNteM8AOPtjXWI3OIJw/view?usp=sharing"></a></p>
-<p> <a href="https://drive.google.com/file/d/1HUJ4M6lNUygcVh9m_NZnvwE7NDgKDBYf/view?usp=sharing"></a></p>
-
+<p align="center" style="box-shadow: 3px 6px">
+    <img src= "https://github.com/Deboramc05/Projeto-Recriando-Instagram-Dio/blob/main/img/instagram_result.JPG?raw=true">
+</p>
+<p align="center" style="box-shadow: 3px 6px">
+    <img src= "https://github.com/Deboramc05/Projeto-Recriando-Instagram-Dio/blob/main/img/Responsivo.JPG">
+</p>
 
 
 Developed by 🍁 [.:: Débora Costa ::.](https://https://github.com/Deboramc05)
