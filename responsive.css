@@ -1,0 +1,40 @@
+/* media queries */
+
+@media (max-width: 1024px) {
+    .instagram-wrapper {
+        width: 90%;
+    }
+}
+
+@media (max-width: 650px) {
+    body {
+        background-color: #ffffff;
+    }
+
+    .instagram-wrapper {
+        width: 90%;
+    }
+
+    .instagram-phone {
+        display: none;
+    }
+
+    .instagram-continue {
+        width: 100%;
+    }
+
+    .group {
+        border: 1px solid transparent
+        /* border: none; */
+    }
+}
+
+.instagram-logout:hover {
+    text-decoration: underline;
+    color: blue;
+}
+
+::selection {
+    background-color: rgb(78, 220, 255);
+    color: #ffffff;
+}
