@@ -14,14 +14,15 @@ O projeto aborda o conceito de CSS Flexbox e responsividade.
 - HTML5
 - CSS3
 - Visual Studio Code
-Developed by 🍁 [.:: Débora Costa ::.](https://https://github.com/Deboramc05)
+
 
 
 
 # Captura de tela
 
-<p> <img src="https://drive.google.com/file/d/1ZEsl7pJUHUQUYzNteM8AOPtjXWI3OIJw/view?usp=sharing"></p>
-<p> <img src="https://drive.google.com/file/d/1HUJ4M6lNUygcVh9m_NZnvwE7NDgKDBYf/view?usp=sharing></p>
+<p> <a href="https://drive.google.com/file/d/1ZEsl7pJUHUQUYzNteM8AOPtjXWI3OIJw/view?usp=sharing"></a></p>
+<p> <a href="https://drive.google.com/file/d/1HUJ4M6lNUygcVh9m_NZnvwE7NDgKDBYf/view?usp=sharing"></a></p>
 
 
 
+Developed by 🍁 [.:: Débora Costa ::.](https://https://github.com/Deboramc05)
